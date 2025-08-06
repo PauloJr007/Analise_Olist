@@ -1,7 +1,8 @@
 # 📦 Análise de Dados – Olist E-commerce
 
 ## 📽️ Apresentação do Projeto
-*[Apresentação Executiva](https://www.canva.com/design/DAGu1l0HmME/wi1hSlDXeumOPzRq9YxfpQ/view?utm_content=DAGu1l0HmME&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd0331f14be)*
+*[Apresentação Executiva](https://www.canva.com/design/DAGu1l0HmME/wi1hSlDXeumOPzRq9YxfpQ/view?utm_content=DAGu1l0HmME&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd0331f14be)*  
+*[Apresentação Executiva em PDF](https://af60cd74-0f43-4a22-879f-66da15034211.filesusr.com/ugd/733747_09de37c862284764a8ed8caaf9a917d1.pdf)*
 
 **Este projeto foi desenvolvido com o objetivo de explorar e analisar todas as tabelas disponíveis do dataset da Olist por meio de uma abordagem multidimensional.**  
 
