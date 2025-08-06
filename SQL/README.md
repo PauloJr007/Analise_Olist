@@ -56,6 +56,3 @@ Este diretório contém todos os arquivos SQL utilizados no projeto **Análise d
 - Receita estimada por mês e região
 
 
----
-
-
