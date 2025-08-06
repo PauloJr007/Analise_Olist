@@ -22,29 +22,22 @@ A base de dados foi estruturada em um banco relacional local, permitindo consult
 │   ├── preprocessing.ipynb — Limpeza e Tratamento dos Dados  
 │   ├── Insert_Dados.ipynb — Inserção e atualização dos Dados no Banco de Dados  
 ├── 📂 SQL  
-│   ├── Criacao_Tabela.sql — Criação do Banco de Dados relacional e Tabelas necessárias  
-│   ├── querys_visao_analitica_pedidos.sql — Querys para extração dos dados no Power BI (Dashboard: Visão Analítica dos Pedidos)  
-│   ├── Vendas_Marketplace.sql — Querys para extração dos dados no Power BI (Dashboard: Painel de Monitoramento de Vendas)  
-│   ├── cancelamentos.sql — Querys para extração dos dados no Power BI  
-│   ├── operacoes_logistica.sql — Querys para extração dos dados no Power BI  
-│   ├── financeiro.sql — Querys para extração dos dados no Power BI  
+│   ├── Criacao_Tabela.sql — Criação do banco de dados relacional e das tabelas necessárias  
+│   ├── querys_visao_analitica_pedidos.sql — Queries para extração de dados (Dashboard: Visão Analítica dos Pedidos)  
+│   ├── Vendas_Marketplace.sql — Queries para extração de dados (Dashboard: Vendas)  
+│   ├── cancelamentos.sql — Queries para extração de dados (Dashboard: Cancelamentos)  
+│   ├── operacoes_logistica.sql — Queries para extração de dados (Dashboard: Logística)  
+│   ├── financeiro.sql — Queries para extração de dados (Dashboard: Financeiro)  
 ├── 📂 Dashboards  
 │   ├── 📊 Dashboard 1 — Diagnóstico Estratégico (Storytelling)  
 │   └── 📊 Dashboard 2 — Monitoramento Operacional Contínuo  
 └── 📂 Documentação do Projeto  
-    ├── 📘 Dicionário dos Dados.pdf    
-    ├── 🕵️ Registros de Anomalias e Inconsistências.pdf   
-    └── 🔁 Fluxograma do Projeto.png
+    ├── 📘 Dicionário dos Dados (.pdf)    
+    ├── 🕵️ Registros de Anomalias e Inconsistências (.pdf)   
+    └── 🔁 Fluxograma do Projeto (.png)
 ```
-
-
-## 🧩 Ferramentas e Tecnologias  
-- **Python** (*Pandas, Numpy, matplotlib, seaborn, unicodedata, unidecode, re, sqlalchemy, wordcloud, rapidfuzz*)
-- **MySQL**
-- **Power BI**
-- **Canva**
-- **Miro**
-- **Notion**
+**Fluxograma**
+<img width="1569" height="607" alt="fluxograma_projeto" src="https://github.com/user-attachments/assets/8eb3911d-d2c0-4461-8b86-dd1851bf021b" />
 
 ## 🧠 Principais Análises Realizadas  
 
@@ -57,6 +50,14 @@ A base de dados foi estruturada em um banco relacional local, permitindo consult
 ## 📊 Dashboards
 - [Visão Analítica dos Pedidos](https://app.powerbi.com/view?r=eyJrIjoiMzY1Yzc3YzEtMzU1Ny00NzM3LWEzOGItYWFkNmE0YzhmNTIyIiwidCI6IjE4OTkzNTlhLTNjNTAtNGRlZS1iMmNjLWEzM2MzYzc2NGE0OCJ9)
 - [Painéis de Monitoramento](https://app.powerbi.com/view?r=eyJrIjoiYTZkNTZhNTMtODdiNS00ZDJhLWJmODMtMjM0YWVlMWIzZWRhIiwidCI6IjE4OTkzNTlhLTNjNTAtNGRlZS1iMmNjLWEzM2MzYzc2NGE0OCJ9)
+  
+## 🧩 Ferramentas e Tecnologias  
+- **Python** (*Pandas, Numpy, matplotlib, seaborn, unicodedata, unidecode, re, sqlalchemy, wordcloud, rapidfuzz*)
+- **MySQL**
+- **Power BI**
+- **Canva**
+- **Miro**
+- **Notion**
 
 ## 🔗 Fontes
 - Dataset original: [Olist Store – Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
