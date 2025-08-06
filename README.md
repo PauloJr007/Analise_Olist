@@ -47,12 +47,16 @@ A base de dados foi estruturada em um banco relacional local, permitindo consult
 - **Notion**
 
 ## 🧠 Principais Análises Realizadas  
-Cancelamentos por região, categoria e seller
 
+- Cancelamentos por região, categoria e seller
 - Atrasos logísticos e impacto nas avaliações
 - Sazonalidade dos pedidos e comportamento do consumidor
 - Segmentação de sellers e oportunidades de expansão
 - Avaliação de KPIs operacionais e de vendas
+
+## 📊 Dashboards
+- [Visão Analítica dos Pedidos](url)
+- [Painéis de Monitoramento](url)
 
 ## 🔗 Fontes
 - Dataset original: [Olist Store – Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
