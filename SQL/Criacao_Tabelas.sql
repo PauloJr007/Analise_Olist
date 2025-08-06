@@ -97,3 +97,4 @@ CREATE TABLE olist_order_reviews (
     CONSTRAINT fk_review_order
         FOREIGN KEY (order_id) REFERENCES olist_orders(order_id)
 );
+
