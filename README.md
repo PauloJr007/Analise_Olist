@@ -55,8 +55,8 @@ A base de dados foi estruturada em um banco relacional local, permitindo consult
 - Avaliação de KPIs operacionais e de vendas
 
 ## 📊 Dashboards
-- [Visão Analítica dos Pedidos](url)
-- [Painéis de Monitoramento](url)
+- [Visão Analítica dos Pedidos](https://app.powerbi.com/view?r=eyJrIjoiMzY1Yzc3YzEtMzU1Ny00NzM3LWEzOGItYWFkNmE0YzhmNTIyIiwidCI6IjE4OTkzNTlhLTNjNTAtNGRlZS1iMmNjLWEzM2MzYzc2NGE0OCJ9)
+- [Painéis de Monitoramento](https://app.powerbi.com/view?r=eyJrIjoiYTZkNTZhNTMtODdiNS00ZDJhLWJmODMtMjM0YWVlMWIzZWRhIiwidCI6IjE4OTkzNTlhLTNjNTAtNGRlZS1iMmNjLWEzM2MzYzc2NGE0OCJ9)
 
 ## 🔗 Fontes
 - Dataset original: [Olist Store – Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
