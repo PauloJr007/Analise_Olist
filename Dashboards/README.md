@@ -29,7 +29,7 @@ Cada painel apresenta métricas, mapas, KPIs e visualizações para facilitar a 
 
 🖼️ Arquivos desta pasta
 - `dashboard_visao_analitica_dos_pedidos.png`
-- `painel_vendas.png`
-- `painel_cancelamentos.png`
-- `painel_logistica.png`
-- `painel_financeiro.png`
+- `Painel_Vendas.png`
+- `Painel_Cancelamentos.png`
+- `Painel_Logistica.png`
+- `Painel_Financeiro.png`
