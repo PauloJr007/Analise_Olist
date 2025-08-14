@@ -25,10 +25,7 @@ A base de dados foi estruturada em um banco relacional local, permitindo consult
 ├── 📂 SQL  
 │   ├── Criacao_Tabela.sql — Criação do banco de dados relacional e das tabelas necessárias  
 │   ├── querys_visao_analitica_pedidos.sql — Queries para extração de dados (Dashboard: Visão Analítica dos Pedidos)  
-│   ├── Vendas_Marketplace.sql — Queries para extração de dados (Dashboard: Vendas)  
-│   ├── cancelamentos.sql — Queries para extração de dados (Dashboard: Cancelamentos)  
-│   ├── operacoes_logistica.sql — Queries para extração de dados (Dashboard: Logística)  
-│   ├── financeiro.sql — Queries para extração de dados (Dashboard: Financeiro)  
+│   ├── Querys_Paineis_Monitoramento.sql — Queries para extração de dados (Painéis de Monitoramento) 
 ├── 📂 Dashboards  
 │   ├── 📊 Dashboard 1 — Diagnóstico Estratégico (Storytelling)  
 │   └── 📊 Dashboard 2 — Monitoramento Operacional Contínuo  
