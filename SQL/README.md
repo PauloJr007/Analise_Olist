@@ -20,39 +20,18 @@ Este diretório contém todos os arquivos SQL utilizados no projeto **Análise d
 
 ---
 
-### 3. 💼 `Vendas_Marketplace.sql`
-> Queries para o **Painel de Monitoramento: Vendas**, incluindo:
-- GMV (volume bruto de vendas)
-- Ticket médio
-- Produtos e categorias mais vendidas
-- Sazonalidade
-- Vendas por estado e cidade
+### 3. 📂 `Querys_Paineis_Monitoramento.sql`
 
----
+> Consultas utilizadas nos Painéis de Monitoramento do Power BI, com foco em:
 
-### 4. ❌ `cancelamentos.sql`
-> Consultas para o **Painel de Monitoramento: Cancelamentos**, com análises por:
-- Mês, estado, cidade
-- Produto, Vendedor e categoria
-- Tendências e sazonalidade de cancelamentos
+- Monitorar pedidos cancelados e estimar o GMV perdido.
+- Analisar indicadores financeiros (receita gerada e perdas por cancelamento).
+- Acompanhar vendas no marketplace, segmentando por categoria, região e desempenho de avaliação.
+- Monitorar a performance logística, com indicadores de entregas adiantadas, no prazo e atrasadas.
 
----
-
-### 5. 🚚 `operacoes_logistica.sql`
-> Queries para o **Painel de Logística**, analisando:
-- Regiões com maior volume de Vendas
-- Atrasos de entrega
-- Preço Médio do Frete
-- Desempenho por Vendedor
-- Filtros como Data, categoria do produto, Estados / Cidades 
-
----
-
-### 6. 💰 `financeiro.sql`
-> Consultas para o **Painel Financeiro**, com métricas como:
-- GMV
-- Custo com frete
-- Meios de pagamento
-- Receita estimada por mês e região
-
+**Principais consultas:**
+1. Cancelamentos → lista detalhada de pedidos cancelados, incluindo data, produto, vendedor, cliente e valores envolvidos.
+2. Financeiro → consolida GMV efetivo e GMV perdido, filtrando pedidos conforme status de processamento ou cancelamento.
+3. Vendas → retorna todas as vendas concluídas ou em andamento, associando avaliação do cliente (review score) para análise de qualidade.
+4. Operações & Logística → traz informações de prazo de entrega (real vs. estimado), permitindo calcular indicadores de pontualidade e mapear gargalos logísticos.
 
